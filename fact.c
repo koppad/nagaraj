@@ -1,0 +1,1 @@
+factorial is given number 
